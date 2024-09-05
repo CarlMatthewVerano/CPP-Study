@@ -34,7 +34,5 @@ int main()
 		double b;
 	*/
 
-
-
 	return 0;
 }
