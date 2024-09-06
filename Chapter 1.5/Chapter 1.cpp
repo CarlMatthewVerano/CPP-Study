@@ -73,9 +73,9 @@ int main()
 	std::cout << "You entered " << x4 << " and " << y1 << '\n';
 
 	// In C++, leading whitespaces, spaces, tabs, newlines, anything at the front of the buffer
-	// are ignored when using std::cin. This is useful when you want to ignore leading whitespaces
-	// unlike that in C. If you input something invalid however, you must handle it
-	// through the program. Entering something invalid automatically assigns the value 0 to the var
+	// are ignored when using std::cin. This is useful when you want to ignore leading whitespaces.
+	// If you input something invalid however, you must handle it through the program.
+	// Entering something invalid automatically assigns the value 0 to the var
 
 
 	// Short Program
